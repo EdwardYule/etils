@@ -1,0 +1,22 @@
+{
+  "name": "@edward/etils",
+  "version": "1.0.0",
+  "description": "An frequently used utils collection by edward.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdwardYule/etils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "edward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdwardYule/etils/issues"
+  },
+  "homepage": "https://github.com/EdwardYule/etils#readme"
+}
